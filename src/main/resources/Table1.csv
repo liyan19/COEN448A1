@@ -1,4 +1,0 @@
-﻿Test Case ,numCourses,prerequisites.length,prerequisites[i].length,"Course (ai, bi)",Pair Uniqueness
-EC1,numCourses<1,<0,!=2,"(ai,bi)<0",Not Distinct
-EC2,1<=numCourses<=2000,numCourses * (numCourses-1),==2,"0 ≤ (ai,bi) < numCourses",Distinct
-EC3,numCourses>2000,numCourses * (numCourses-1),==2,"(ai,bi)> numCourses",Distinct

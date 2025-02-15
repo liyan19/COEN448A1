@@ -1,0 +1,6 @@
+﻿Test Case ,Graph Structure,Course dependency count,Course Prerequisite Distribution
+BC1,Directed Acyclic,Single prerequisite,Even Distribution
+BC2,Cyclic,Single prerequisite,Even Distribution
+BC3,Directed Acyclic,No prerequisite,Even Distribution
+BC4,Directed Acyclic,Multiple prerequisite,Even Distribution
+BC5,Directed Acyclic,Single prerequisite,Uneven Distribution
